@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Planted It!](https://github.com/yahagonz/Planted-It)
 
-- 🌱 I’m currently learning **JavaScript, React Native, and Swift**
+- 🌱 I’m currently learning **JavaScript, React Native, and Svelte**
 
 - 🤝 I’m looking for help with **mobile app development**
 
