@@ -1,9 +1,11 @@
 <h1 align="center">Hello, I am Yaha.</h1>
 <h3 align="center">An inquisitive, determined, and diligent programmer.</h3>
 
-- 🔭 I’m currently working on [Planted It!](https://github.com/yahagonz/Planted-It)
+- 😁 Currently working on a cross platform mobile app utilizing [React Native](https://reactnative.dev/) with [Expo](https://expo.dev/).
 
-- 🌱 I’m currently learning **JavaScript, React Native, and Svelte**
+- 🔭 Other public project(s) I'm working on: [Planted It!](https://github.com/yahagonz/Planted-It)
+
+- 🌱 I’m currently learning **TypeScript and React Native with Expo**
 
 - 🤝 I’m looking for help with **mobile app development**
 
@@ -13,6 +15,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+  </a> 
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="reactnative" width="40" height="40"/> 
+  </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
@@ -41,8 +49,6 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
