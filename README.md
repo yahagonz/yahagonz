@@ -3,8 +3,6 @@
 
 - 😁 Currently working on a cross platform mobile app utilizing [React Native](https://reactnative.dev/) with [Expo](https://expo.dev/).
 
-- 🔭 Other public project(s) I'm working on: [Planted It!](https://github.com/yahagonz/Planted-It)
-
 - 🌱 I’m currently learning **TypeScript and React Native with Expo**
 
 - 🤝 I’m looking for help with **mobile app development**
