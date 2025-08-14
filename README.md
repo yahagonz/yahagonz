@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Yaha.</h1>
 <h3 align="center">An inquisitive, determined, and diligent programmer.</h3>
 
-- 😁 Currently working on a cross platform mobile app utilizing [React Native](https://reactnative.dev/) with [Expo](https://expo.dev/).
+- 😁 Currently working on a [cross platform mobile app](https://www.floralogue.app/) utilizing [React Native](https://reactnative.dev/) with [Expo](https://expo.dev/).
 
 - 🌱 I’m currently learning **TypeScript and React Native with Expo**
 
@@ -17,7 +17,10 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
   <a href="https://expo.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="reactnative" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="expo" width="40" height="40"/> 
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.7JiaEYB0imwYsk-d2n2T9QHaHa%3Fpid%3DApi&f=1&ipt=689a61273d394a3679324f26ef2e78d30b52a76df3af4034552c5cf03c995a19&ipo=images" alt="supabase" width="40" height="40"/> 
   </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
