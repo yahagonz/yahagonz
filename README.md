@@ -1,15 +1,4 @@
-<h1 align="center">Hello, I am Yaha.</h1>
-<h3 align="center">An inquisitive, determined, and diligent programmer.</h3>
-
-- 😁 Currently working on a [cross platform mobile app](https://www.floralogue.app/) utilizing [React Native](https://reactnative.dev/) with [Expo](https://expo.dev/).
-
-- 🌱 I’m currently learning **TypeScript and React Native with Expo**
-
-- 🤝 I’m looking for help with **mobile app development**
-
-- 📫 How to reach me **gonzalezy0309@gmail.com**
-
-- ⚡ Fun fact: **I can say the alphabet backwards**
+<h1 align="center">I do whatever sometimes</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
